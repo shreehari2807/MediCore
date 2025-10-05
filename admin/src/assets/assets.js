@@ -1,5 +1,5 @@
 import add_icon from './add_icon.svg'
-import logo1 from './logo1.svg'
+import logo1 from './logof.svg'
 import appointment_icon from './appointment_icon.svg'
 import cancel_icon from './cancel_icon.svg'
 import doctor_icon from './doctor_icon.svg'
